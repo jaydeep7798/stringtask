@@ -1,0 +1,67 @@
+2022-08-11 16:17:03,836 ,root ,INFO ,lets complete string task
+2022-08-11 16:17:03,836 ,root ,DEBUG ,we are operating string opearion
+2022-08-11 16:17:03,836 ,root ,INFO ,tssy
+2022-08-11 16:17:03,836 ,root ,ERROR ,No error found
+2022-08-11 16:17:03,836 ,root ,DEBUG ,we are about reversed the string
+2022-08-11 16:17:03,836 ,root ,ERROR ,noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+2022-08-11 16:17:03,836 ,root ,DEBUG ,make string inro upper case
+2022-08-11 16:17:03,836 ,root ,INFO ,THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+2022-08-11 16:17:03,836 ,root ,ERROR ,No error found
+2022-08-11 16:17:03,836 ,root ,INFO ,try to arrange into the lower case 
+2022-08-11 16:17:03,846 ,root ,INFO ,this is my first python programming class and i am learning python string and its function
+2022-08-11 16:17:03,846 ,root ,WARNING ,no error found
+2022-08-11 16:17:24,085 ,root ,INFO ,lets complete string task
+2022-08-11 16:17:24,085 ,root ,DEBUG ,we are operating string opearion
+2022-08-11 16:17:24,085 ,root ,INFO ,tssy
+2022-08-11 16:17:24,085 ,root ,ERROR ,No error found
+2022-08-11 16:17:24,085 ,root ,DEBUG ,we are about reversed the string
+2022-08-11 16:17:24,085 ,root ,ERROR ,noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+2022-08-11 16:17:24,085 ,root ,DEBUG ,make string inro upper case
+2022-08-11 16:17:24,085 ,root ,INFO ,THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+2022-08-11 16:17:24,085 ,root ,ERROR ,No error found
+2022-08-11 16:17:24,085 ,root ,INFO ,try to arrange into the lower case 
+2022-08-11 16:17:24,085 ,root ,INFO ,this is my first python programming class and i am learning python string and its function
+2022-08-11 16:17:24,085 ,root ,WARNING ,no error found
+2022-08-11 16:18:04,735 ,root ,INFO ,lets complete string task
+2022-08-11 16:18:04,735 ,root ,DEBUG ,we are operating string opearion
+2022-08-11 16:18:04,735 ,root ,INFO ,tssy
+2022-08-11 16:18:04,735 ,root ,ERROR ,No error found
+2022-08-11 16:18:04,735 ,root ,DEBUG ,we are about reversed the string
+2022-08-11 16:18:04,735 ,root ,ERROR ,noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+2022-08-11 16:18:04,735 ,root ,DEBUG ,make string inro upper case
+2022-08-11 16:18:04,735 ,root ,INFO ,THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+2022-08-11 16:18:04,735 ,root ,ERROR ,No error found
+2022-08-11 16:18:04,735 ,root ,INFO ,try to arrange into the lower case 
+2022-08-11 16:18:04,735 ,root ,INFO ,this is my first python programming class and i am learning python string and its function
+2022-08-11 16:18:04,735 ,root ,WARNING ,no error found
+2022-08-11 16:18:04,735 ,root ,INFO ,try to split the string
+2022-08-11 16:18:04,735 ,root ,INFO ,<built-in method split of str object at 0x000002C7832046F0>
+2022-08-11 16:18:04,735 ,root ,ERROR ,no error
+Traceback (most recent call last):
+  File "C:/Users/JAYDEEP/PycharmProjects/pythonProject1/pythonProject/pythonProject1/pythonProject1/pythonProject/pythonProject6/stringtask1.py", line 40, in try_to_split
+    return self.strings.split('')
+ValueError: empty separator
+2022-08-11 16:18:27,466 ,root ,INFO ,lets complete string task
+2022-08-11 16:18:27,466 ,root ,DEBUG ,we are operating string opearion
+2022-08-11 16:18:27,466 ,root ,INFO ,tssy
+2022-08-11 16:18:27,466 ,root ,ERROR ,No error found
+2022-08-11 16:18:27,466 ,root ,DEBUG ,we are about reversed the string
+2022-08-11 16:18:27,466 ,root ,ERROR ,noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+2022-08-11 16:18:27,466 ,root ,DEBUG ,make string inro upper case
+2022-08-11 16:18:27,466 ,root ,INFO ,THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+2022-08-11 16:18:27,466 ,root ,ERROR ,No error found
+2022-08-11 16:18:27,466 ,root ,INFO ,try to arrange into the lower case 
+2022-08-11 16:18:27,466 ,root ,INFO ,this is my first python programming class and i am learning python string and its function
+2022-08-11 16:18:27,466 ,root ,WARNING ,no error found
+2022-08-11 16:18:38,786 ,root ,INFO ,lets complete string task
+2022-08-11 16:18:38,786 ,root ,DEBUG ,we are operating string opearion
+2022-08-11 16:18:38,786 ,root ,INFO ,tssy
+2022-08-11 16:18:38,786 ,root ,ERROR ,No error found
+2022-08-11 16:18:38,786 ,root ,DEBUG ,we are about reversed the string
+2022-08-11 16:18:38,786 ,root ,ERROR ,noitcnuf sti dna gnirts nohtyp GNINrael ma i dna ssalc gnimmargorp nohtyP tsriF yM si siht
+2022-08-11 16:18:38,786 ,root ,DEBUG ,make string inro upper case
+2022-08-11 16:18:38,786 ,root ,INFO ,THIS IS MY FIRST PYTHON PROGRAMMING CLASS AND I AM LEARNING PYTHON STRING AND ITS FUNCTION
+2022-08-11 16:18:38,786 ,root ,ERROR ,No error found
+2022-08-11 16:18:38,786 ,root ,INFO ,try to arrange into the lower case 
+2022-08-11 16:18:38,786 ,root ,INFO ,this is my first python programming class and i am learning python string and its function
+2022-08-11 16:18:38,786 ,root ,WARNING ,no error found
